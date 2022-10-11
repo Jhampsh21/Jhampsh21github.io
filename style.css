@@ -1,0 +1,131 @@
+body {
+  background-color: black;
+  font-family: 'Cinzel', sans-serif;
+  font-weight: 400;
+  
+  
+  
+}
+#about {
+	background-color: white;
+
+}
+
+
+.Facebook-logo 
+{
+	width: 150px;
+}
+
+.Gmail-logo
+{
+	width: 150px
+}
+
+.Instagram-logo
+{
+	width: 150px
+}
+.basketball-picture
+ {
+  width: 500px;
+  
+  
+}
+
+.shooting-frame
+{
+	width: 300px;
+}
+
+.Leeds-picture
+{
+	width: 300px;
+}
+
+.Hoosac-picture 
+{
+	width: 300px;
+}
+
+.LCC-picture
+{
+	width:300px
+}
+
+header {
+  background-color: black;
+}
+header h2 {
+	font-family: 'Cinzel', serif;
+	font-weight: 700;
+  color: #fff;
+  margin: 0;
+  padding: 40px;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 36px;
+  text-decoration: none;
+}
+.active {
+  background-color: #175676;
+}
+
+nav li a:hover {
+  background-color: #175676;
+}
+footer {
+  background-color: #595959;
+  padding: 40px;
+}
+footer p {
+  color: #fff;
+  margin: 0;
+}
+
+#container {
+  width: 1100px;
+  margin: 0 auto;
+}
+.two-column {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding: 40px;
+  background-color: #F5FFFA;
+  
+}
+.two-column div {
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: #F5FFFA;
+}
+#projects .two-column {
+	background-color: red;
+	padding: 10px 40px 10px 40px;
+}
+.three-column {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  padding: 40px;
+  background-color: #D8F793;
+}
+
+.three-column div {
+  background-color: #fff;
+  margin-righ: 10px;
+  margin-left: 10px;
+}
